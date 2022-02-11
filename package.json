@@ -1,0 +1,25 @@
+{
+  "name": "win_plat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puranjay123/win_plat.git"
+  },
+  "author": "Rajeswar Sharma, Puranjay Kawatra, Saurabh Jangra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puranjay123/win_plat/issues"
+  },
+  "homepage": "https://github.com/puranjay123/win_plat#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.2.1"
+  }
+}
